@@ -1,5 +1,6 @@
 #ofxIcomMaker
 You can ease getting the Google Material icons now. <br />
+You don't need downloading zip file and extract to png file. also don't need copy to data folder<br />
 Just need to know 'icon id'.<br />
 And now able to drawing all material style icons on your of apps.<br />
 
