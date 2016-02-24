@@ -1,4 +1,8 @@
 #ofxIcomMaker
+You can ease getting Google Material icons now. 
+Just need know and copy and paste 'icon id'.
+And now able to drawing all material style icons on your of apps.
+
 
 simple using
 ```c++
