@@ -9,9 +9,9 @@ ofImage* iconImage;
 iconImage = ofxIconMaker::GetIcon(icon_id, color, dpi, type);
 ```
 
-## how to using
+## how to using (video : https://youtu.be/2Myg8-8VGlE)
 
-video tutorial : https://youtu.be/2Myg8-8VGlE
+
 
 1) open any webbrowse
 
