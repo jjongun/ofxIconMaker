@@ -18,7 +18,7 @@ iconImage = ofxIconMaker::GetIcon(icon_id, color, dpi, type);
 
 
 
-1) open any webbrowse<br />
+1) open any webbrowser<br />
 2) go to https://design.google.com/icons/<br />
 3) click any icon<br />
 4) Look at webbrowser url text<br />
