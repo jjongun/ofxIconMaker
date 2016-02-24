@@ -4,7 +4,7 @@ Just need to know 'icon id'.<br />
 And now able to drawing all material style icons on your of apps.<br />
 
 
-##simple using
+##Simple using
 ```c++
 #include "ofxIconMaker.h"
 ofImage* iconImage;
@@ -13,7 +13,8 @@ ofImage* iconImage;
 iconImage = ofxIconMaker::GetIcon(icon_id, color, dpi, type);
 ```
 
-## how to get icons (very simple tutorial: https://youtu.be/2Myg8-8VGlE)
+## How to get icons 
+###(very simple tutorial: https://youtu.be/2Myg8-8VGlE)
 
 
 
