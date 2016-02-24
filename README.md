@@ -14,7 +14,7 @@ iconImage = ofxIconMaker::GetIcon(icon_id, color, dpi, type);
 ```
 
 ## How to get icons 
-###(very simple tutorial: https://youtu.be/2Myg8-8VGlE)
+###(very simple video tutorial: https://youtu.be/2Myg8-8VGlE)
 
 
 
