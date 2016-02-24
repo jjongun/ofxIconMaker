@@ -23,7 +23,7 @@ iconImage = ofxIconMaker::GetIcon(icon_id, color, dpi, type);
 3) click any icon<br />
 4) Look at webbrowser url text<br />
 5) Select text after '#' and Copy to clipboard<br />
-     ex) https://design.google.com/icons/#ic_copyright -> 'ic_copyright'<br />
+     ex) https://design.google.com/icons/#ic_copyright -> 'ic_copyright'
 6) Using api : ofxIconMaker::GetIcon([icon_id] , select COLOR , select DPI , select type)<br />
 
 
