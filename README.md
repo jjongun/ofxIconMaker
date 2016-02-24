@@ -1,5 +1,5 @@
 #ofxIcomMaker
-You can ease getting of the Google Material icons now. <br />
+You can ease getting the Google Material icons now. <br />
 Just need know and copy and paste 'icon id'.<br />
 And now able to drawing all material style icons on your of apps.<br />
 
