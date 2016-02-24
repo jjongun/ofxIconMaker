@@ -4,7 +4,7 @@ Just need know and copy and paste 'icon id'.<br />
 And now able to drawing all material style icons on your of apps.<br />
 
 
-simple using
+##simple using
 ```c++
 #include "ofxIconMaker.h"
 ofImage* iconImage;
