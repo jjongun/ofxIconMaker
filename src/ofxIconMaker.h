@@ -2,7 +2,7 @@
 #include "ofImage.h"
 #include "ofURLFileLoader.h"
 #include <iostream>
-#include <Poco\Zip\Decompress.h>
+#include "Poco/Zip/Decompress.h"
 
 class ofxIconMaker
 {
